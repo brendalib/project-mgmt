@@ -1,4 +1,4 @@
-# Welcome to the GitHub Project Management repository
+#### Welcome to the GitHub Project Management repository####
 :tada:
 
 This repository was created as a resource for folks learning how to use GitHub as a collaborative project management tool. :octocat:
@@ -12,7 +12,7 @@ Here are a few resources to help you right off the bat:
 ### Go ahead and fork this so you can add a copy to your own account.
 
 * Fork this repo
-  * Click the "Fork" button in the top right of this page
+  * Click the "Fork" button in the ~~top right~~ of *this page*
   * Check to make sure you're on your own forked version of this repo (look for your username as part of the path in the top left).
 * Edit this README
   * Click the README.md file. 
@@ -22,6 +22,6 @@ Here are a few resources to help you right off the bat:
   * Scroll down and complete the information in the "Commit changes" box. 
   * Add a note about what you changed. This is an important part of version control — it allows other people (and even your future self!) to know what changes you made and why. 
 
-When you are done, click on the [EXERCISES](/EXERCISES/) folder and follow the instructions in the RetirementParty.md.
+When you are **done**, click on the [EXERCISES](/EXERCISES/) folder and follow the instructions in the RetirementParty.md.
 
 For more practice in GitHub including learning about branches, try this exercise: https://guides.github.com/activities/hello-world/ 
